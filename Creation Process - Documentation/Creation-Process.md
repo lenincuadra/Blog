@@ -16,6 +16,7 @@
 1. Day 1. date_Nov-23-Sat-2024 - Setting GIT up and started to Design the layout on Figma
    - Of course I fought against Git using ChatGPT and won, ty Chat.
    - Figma Design using my old Design System Assets, changing some stuffs and taking references from Medium website.
+     ![My Projects - UI expected result](UI-design__date_Nov-23-Sat-2024.png)
 2. Day 2. date_Nov-24-Sun-2024 - Learning the importance of SaSS
    - This one was an important to understand on if is necesary now or if I need it to skip it. FEELS FOUNDATIONS TO ME for ANY frontend after this research, so let's go.
    - Designed a Logo for myself, I took my own Sign as a logo, built it in Canva with ~7 minutes with my trackpad, replace the background color to added to the header and is done! Graffiti skills cames to the Rescue of my time (![How I built my Logo in 7min](../assets/LENK-logo__How-I-Built-it.png))
