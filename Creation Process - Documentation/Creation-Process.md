@@ -11,7 +11,7 @@
 
 ---
 
-## My Learning Journey
+## My Learning Experience Journey
 
 1. Day 1. date_Nov-23-Sat-2024 - Setting GIT up and started to Design the layout on Figma
    - Of course I fought against Git using ChatGPT and won, ty Chat.
@@ -30,7 +30,9 @@
 - - I skipped a lot of this course just to get the basic, I don't think is a good course, thought (JUMPING)
 - [Learn Sass In 20 Minutes | Sass Crash Course](https://www.youtube.com/watch?v=Zz6eOVaaelI)
 - - This is kinda better, I could go back to this one, is kinda hard to apply stuff just from videos like this one that doesn't have a good project to teach you, but it works a lot. (DONE)
-
-5. [SASS Tutorial (build your own CSS library) #2 - Compiling SASS](https://www.youtube.com/watch?v=Sk5jMurFHCo&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&index=2)
-
+- [SASS Tutorial (build your own CSS library) #2 - Compiling SASS](https://www.youtube.com/watch?v=Sk5jMurFHCo&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&index=2)
 - This is in progress, I'm not planning to skipped right now, but who knows.
+
+6. Day 4. date_Nov-26-Tue-2024 - Yes, I jump course to course to learn what I want. This dude made some videos before on design that helps me a lot, I'm thrilled now
+
+- [Learn Sass in this Free Crash Course - Give your CSS Superpowers!](https://www.youtube.com/watch?v=roywYSEPSvc)
