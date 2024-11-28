@@ -33,6 +33,8 @@
 - [SASS Tutorial (build your own CSS library) #2 - Compiling SASS](https://www.youtube.com/watch?v=Sk5jMurFHCo&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&index=2)
 - This is in progress, I'm not planning to skipped right now, but who knows.
 
-6. Day 4. date_Nov-26-Tue-2024 - Yes, I jump course to course to learn what I want. This dude made some videos before on design that helps me a lot, I'm thrilled now
+6. Day 4. date_Nov-26-Tue-2024 - Yes, I jump course to course to learn what I want. This dude made some videos before on design that helps me a lot, I'm thrilled now, is pretty old but has a good pace to learn, I'm good with this.
 
 - [Learn Sass in this Free Crash Course - Give your CSS Superpowers!](https://www.youtube.com/watch?v=roywYSEPSvc)
+
+7. date_Nov-27-Wed-2024 - Trying to apply colors to variables, but I need to define what colors to use, and naming convention ![Color Definitions](Color-Definitions.png)
