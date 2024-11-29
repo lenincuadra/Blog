@@ -1,3 +1,12 @@
+@import "./colors";
+@import "./globals";
+@import "./sizes";
+
 body {
+  background-color: blue;
+  background-color: $lk-surface-fill-ghost;
+}
+
+header {
   background-color: red;
 }

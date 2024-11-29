@@ -1,8 +1,3 @@
-* {
-  font-family: inter, Helvetica, Arial, sans-serifsans-serif;
-  padding: 0;
-}
-
 /* SPACING -- Primordials */
 :root {
   --lk-size-0px: 0 em;
@@ -19,6 +14,7 @@
   --lk-size-64px: 4em;
   --lk-size-72px: 4.5em;
   --lk-size-80px: 5em;
+
   /* FONT SIZE */
   --lk-fontsize-8px: 0.5rem;
   --lk-fontsize-10px: 0.625rem;
@@ -36,11 +32,3 @@
   --lk-fontsize-72px: 4.5rem;
   --lk-fontsize-80px: 5rem;
 }
-
-body {
-  background-color: blue;
-}
-
-header {
-  background-color: red;
-} /*# sourceMappingURL=main.css.map */
