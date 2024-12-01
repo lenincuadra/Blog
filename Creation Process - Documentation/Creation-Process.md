@@ -40,6 +40,7 @@
 7. date_Nov-27-Wed-2024 - Trying to apply colors to variables, but I need to define what colors to use, and naming convention ![Color Definitions](Color-Definitions.png)
 8. date_Nov-28-Thu-2024 - Creating more variables.
    Today is being ruff with tutorials about Sass, most are out of date and everyone use a different compiler make it the videos too much different to each other.
+9. date_Nov-30-Sat-2024 - Struggling with how to learn Scss, is kinda complex to find a process to learn scss.
 
 - Colors variables are done
 - Naming convention is updated.
