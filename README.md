@@ -5,6 +5,7 @@
 1. Have something to store my stories, blog post, portfolio jobs etc.
 2. Learn CRUD throughout HTMX.
 3. Have a good understanding of what a DB is.
+4. Refactor a CSS project to SASS
 
 --
 
