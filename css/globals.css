@@ -1,0 +1,10 @@
+/* GLOBALS */
+
+@import url(colors.css);
+* {
+  font-family: "Source Sans 3";
+  padding: 0;
+  margin: 0;
+
+  color: var(--lk-surface-text-ghost);
+}

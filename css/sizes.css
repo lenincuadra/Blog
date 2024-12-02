@@ -1,0 +1,34 @@
+/* SPACING -- Primordials */
+:root {
+  --lk-size-0px: 0em;
+  --lk-size-2px: 0.125em;
+  --lk-size-4px: 0.25em;
+  --lk-size-8px: 0.5em;
+  --lk-size-16px: 1em;
+  --lk-size-20px: 1.25em;
+  --lk-size-24px: 1.5em;
+  --lk-size-32px: 2em;
+  --lk-size-40px: 2.5em;
+  --lk-size-48px: 3em;
+  --lk-size-56px: 3.5em;
+  --lk-size-64px: 4em;
+  --lk-size-72px: 4.5em;
+  --lk-size-80px: 5em;
+
+  /* FONT SIZE */
+  --lk-fontsize-8px: 0.5rem;
+  --lk-fontsize-10px: 0.625rem;
+  --lk-fontsize-12px: 0.75rem;
+  --lk-fontsize-14px: 0.875rem;
+  --lk-fontsize-16px: 1rem;
+  --lk-fontsize-18px: 1.125rem;
+  --lk-fontsize-20px: 1.25rem;
+  --lk-fontsize-24px: 1.5rem;
+  --lk-fontsize-32px: 2rem;
+  --lk-fontsize-40px: 2.5rem;
+  --lk-fontsize-48px: 3rem;
+  --lk-fontsize-56px: 3.5rem;
+  --lk-fontsize-64px: 4rem;
+  --lk-fontsize-72px: 4.5rem;
+  --lk-fontsize-80px: 5rem;
+}

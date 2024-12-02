@@ -1,15 +1,107 @@
-* {
-  font-family: "Source Sans 3";
-  padding: 0;
+@import url("colors.css");
+@import url("sizes.css");
+@import url("globals.css");
+
+/* NAVBAR */
+.navbar {
+  display: flex;
+  flex-grow: 3;
+  align-content: center;
+  align-items: center;
+  background-color: var(--lk-container-fill-ghost);
+  border-bottom: solid 1px;
+  border-color: var(--lk-container-stroke-ghost);
+  justify-content: space-between;
+  padding: 0 var(--lk-size-16px);
+  max-height: 70px;
+}
+.navbar__items--logo {
+  align-content: center;
+  align-items: center;
+  padding: var(--lk-size-0px) var(--lk-size-8px);
 }
 
-/* SPACING -- Primordials */
-/* FONT SIZE */
+.navbar__items {
+  gap: 8px;
+  padding: var(--lk-size-0px);
+
+  max-width: 80px;
+  max-height: 70px;
+  font-size: 10px;
+}
+/* CONTENT */
 body {
-  background-color: blue;
-  background-color: hsl(180, 3.45%, 5.69%);
+  display: flex;
+  flex-direction: column;
+  background-color: var(--lk-surface-fill-ghost);
 }
 
+.section-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-areas: "item1 item2 item3";
+
+  padding: var(--lk-size-24px);
+  gap: var(--lk-size-40px);
+}
+.grid-item-1 {
+  grid-area: item1;
+}
+.grid-item-2 {
+  grid-area: item2;
+}
+.grid-item-3 {
+  grid-area: item3;
+}
+
+@media (max-width: 768px) {
+  .section-grid {
+    grid-template-columns: 1fr; /* Una sola columna */
+    grid-template-areas: "item2"; /* Solo muestra el área de la columna 2 */
+  }
+
+  .grid-item-1,
+  .grid-item-3 {
+    display: none; /* Oculta los ítems que no pertenecen al área visible */
+  }
+}
+
+/* HEADER */
 header {
-  background-color: red;
-} /*# sourceMappingURL=main.css.map */
+  padding: var(--lk-size-40px) var(--lk-size-40px) var(--lk-size-24px)
+    var(--lk-size-24px);
+}
+
+.header-desc {
+  color: var(--core-color-neutral-20);
+  font-size: var(--lk-size-20px);
+}
+
+.card-project-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 16px;
+  padding: 8px 0 24px 0;
+  border-bottom: solid 1px;
+  border-color: var(--lk-container-stroke-ghost);
+}
+.card-project-list__wrapper {
+  /* padding: var(--lk-size-24px); */
+}
+.card-project-list__desc {
+  color: var(--core-color-neutral-20);
+  font-size: var(--lk-size-16px);
+}
+.card-project-list__img {
+  height: 48px;
+  width: auto;
+}
+.card-project-list__img img {
+  height: 100%;
+  width: auto;
+}
+
+footer {
+  padding-bottom: var(--lk-size-80px);
+}

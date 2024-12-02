@@ -1,0 +1,37 @@
+:root {
+  /* COLORS - CORE */
+  /* NEUTRAL */
+
+  --core-color-neutral-100: hsl(0, 0%, 0%, 100%);
+  --core-color-neutral-95: hsl(0, 0%, 4%, 100%);
+  --core-color-neutral-90: hsl(0, 0%, 5%, 100%);
+  --core-color-neutral-80: hsl(0, 0%, 16%, 100%);
+  --core-color-neutral-20: hsl(0, 0%, 80%, 100%);
+  --core-color-neutral-00: hsl(0, 0%, 100%, 100%);
+
+  /* GREEN LIGHTING */
+  --core-color-greenLightning-50: hsl(159, 92%, 19%, 100%);
+  --core-color-greenLightning-40: hsl(159, 100%, 64%, 100%);
+
+  /* COLORS - BRAND */
+  /* PRIMARY */
+  --lk-core-color-stroke-primary: var(--core-color-greenLightning-50);
+  --lk-core-color-fill-primary: var(--core-color-greenLightning-40);
+
+  /* COLORS - COMPONENTS */
+  /* CONTAINER GHOST */
+  --lk-container-stroke-ghost: var(--core-color-neutral-80);
+  --lk-container-fill-ghost: var(--core-color-neutral-90);
+  --lk-container-icon-ghost: var(--core-color-neutral-00);
+  --lk-container-text-ghost: var(--core-color-neutral-00);
+
+  /* PRIMARY SURFACE */
+  --lk-surface-icon-ghost: var(--core-color-neutral-00);
+  --lk-surface-text-ghost: var(--core-color-neutral-00);
+  --lk-surface-fill-ghost: var(--core-color-neutral-95);
+
+  /* PRIMARY SURFACE ALT */
+  --lk-surfaceAlt-icon-ghost: var(--core-color-neutral-20);
+  --lk-surfaceAlt-text-ghost: var(--core-color-neutral-20);
+  --lk-surfaceAlt-fill-ghost: var(--core-color-neutral-95);
+}

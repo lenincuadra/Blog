@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link href="/css/main.css" rel="stylesheet" />
-
+    <link rel="stylesheet" href="css/main.css" />
+    <!-- FONTS -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -14,8 +14,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>[LNKX] The LenK Xperience</title>
   </head>
-  <header>LenK-- My Projects</header>
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="navbar__items"><h1>The LenK Xperience</h1></div>
+    <div>
+      <img
+        class="navbar__items--logo"
+        src="/assets/LENK-logo-bleeded.png"
+        height="70px"
+      />
+    </div>
+    <div class="navbar__items"><h1>My Projects</h1></div>
+  </nav>
+  <!-- HEADER -->
+  <header class="header-wrapper">
+    <h1 class="header-title">My Projects</h1>
+    <p class="header-desc">
+      ℹ️ This works like a Thread on Twitter, so feel free to Scan or Dig in on
+      the content
+    </p>
+  </header>
+
+  <!-- BODY -->
   <body>
-    <h1 class="">Holanda!</h1>
+    <div class="section-grid">
+      <!-- GRID #1 -->
+      <div class="grid-item-1">
+        chao
+        <div></div>
+      </div>
+      <!-- GRID #2 -->
+      <div class="card-project-list__wrapper grid-item-2">
+        <!-- #1 -->
+        <article>
+          <div class="card-project-list">
+            <div class="card-project-list__text-wrapper">
+              <h1>My Projects #1</h1>
+              <p class="card-project-list__desc">
+                Welcome to our Figma Tutorial Series! In this session, we'll
+                guide you through the exciting realm of collaborative design
+                using Figma.
+              </p>
+            </div>
+            <div class="card-project-list__img">
+              <img src="/assets/LENK-logo__How-I-Built-it.png" />
+            </div>
+          </div>
+        </article>
+      </div>
+      <!-- GRID #3 -->
+      <div class="grid-item-3">
+        hola
+        <div></div>
+      </div>
+    </div>
   </body>
+
+  <footer></footer>
 </html>
