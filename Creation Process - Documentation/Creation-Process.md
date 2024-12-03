@@ -45,6 +45,8 @@
 
 - Today was a lot of refactoring and at learned how to use Queries to make grid responsives
 
+11. date_Dec-02-Mon-2024 - Keeping up with Queries.
+
 - Colors variables are done
 - Naming convention is updated.
 - Variables for sizes added
